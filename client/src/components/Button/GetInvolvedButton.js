@@ -73,7 +73,7 @@ const GetInvolvedButton = ({ getGTM, t }) => {
             type="primary"
             shape="round"
             style={{ "margin-top": "4rem" }}
-            href="https://apply.workable.com/fightpandemics"
+            href="https://apply.workable.com/doingud"
             target="_blank"
             id={getGTM("joinVolunteer")}
           >
@@ -83,7 +83,7 @@ const GetInvolvedButton = ({ getGTM, t }) => {
             type="primary"
             shape="round"
             style={{ "margin-top": "4rem" }}
-            href="https://apply.workable.com/fightpandemics/j/46D6EF3B44/"
+            href="https://apply.workable.com/doingud/j/46D6EF3B44/"
             target="_blank"
             id={getGTM("joinAmbassador")}
           >
@@ -95,7 +95,7 @@ const GetInvolvedButton = ({ getGTM, t }) => {
             type="primary"
             shape="round"
             style={{ "margin-top": "4rem" }}
-            href="https://apply.workable.com/fightpandemics/j/58B157AAB2/"
+            href="https://apply.workable.com/doingud/j/58B157AAB2/"
             target="_blank"
             id={getGTM("joinStudentProgram")}
           >
